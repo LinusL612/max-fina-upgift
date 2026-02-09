@@ -1,0 +1,8 @@
+K|balbrty|5|5|fem|fem|True|67|femiguess|True
+H|g|5|5|gul|jus|True|67||0
+H|g|5|5|gul|jus|True|67||0
+H|hans|6|50|skit|dumb|True|890|floppy|0
+K|j|5|5|h|hej|False|5||False
+K|zarde|5|5|fem|fem|True|5555|fem|True
+K|ålof|6|6|fem|fem|True|545|fulsomfan|True
+K|ärde|5|5|fem|fem|True|5555555|fem|True

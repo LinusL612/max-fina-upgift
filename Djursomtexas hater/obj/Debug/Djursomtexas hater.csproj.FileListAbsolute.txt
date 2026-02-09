@@ -1,0 +1,13 @@
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\bin\Debug\Djursomtexas hater.exe.config
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\bin\Debug\Djursomtexas hater.exe
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\bin\Debug\Djursomtexas hater.pdb
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas hater.csproj.AssemblyReference.cache
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas_hater.Form1.resources
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas_hater.Properties.Resources.resources
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas hater.csproj.GenerateResource.cache
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas hater.csproj.CoreCompileInputs.cache
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas hater.exe
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas hater.pdb
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas_hater.Adoptionssida.resources
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas_hater.Historik.resources
+C:\Users\l2lundh\source\repos\Djursomtexas hater\Djursomtexas hater\obj\Debug\Djursomtexas_hater.Manager.resources
